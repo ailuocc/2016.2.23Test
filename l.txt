@@ -1,7 +1,4 @@
 abcdefghijklmopqrstuvwxyz
 123456789
-<<<<<<< HEAD
 Creating A new branch is quick and simple.
-=======
-Creating A new branch is quick and simple.
->>>>>>> featurel
+
